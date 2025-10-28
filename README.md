@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student at FEU Institute of Technology specializing in **SEO automation**, **web scraping**, and **data analysis**. I build scalable tools that solve real technical SEO challenges.
+Computer Science, Software Engineer at FEU Institute of Technology specializing in **SEO automation**, **web scraping**, and **data analysis**. I build scalable tools that solve real technical SEO challenges.
 
 **Currently seeking:** Junior Technical SEO Analyst | SEO Data Analyst | Technical SEO Specialist roles
 
